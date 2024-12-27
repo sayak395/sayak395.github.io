@@ -1,12 +1,32 @@
----
-layout: default
----
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html lang="en">
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.description }}</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <title>{{ page.title }}</title>
+</head>
 
-{% if page.image %}
-<img src="{{ page.image }}" alt="Project image">
-{% endif %}
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </header>
+    <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about' | relative_url }}">About Me</a>
+        <!-- Add more navigation links if needed -->
+    </nav>
 
-<a href="{{ page.demo_link }}">View Demo</a> | <a href="{{ page.repo_link }}">View Repository</a>
+    <div class="content">
+        {{ content }}
+    </div>
+
+    <footer>
+        © {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.
+    </footer>
+</body>
+
+</html>
