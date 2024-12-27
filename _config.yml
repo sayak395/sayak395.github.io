@@ -1,0 +1,10 @@
+title: Sayak's Portfolio
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my personal portfolio where I showcase my projects and skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sayak395.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+markdown: kramdown
