@@ -12,13 +12,17 @@ Here you can find some of the projects I've worked on and more about my professi
 ## Projects
 
 <div class="project">
-    <img src="/assets/images/project1.jpg" alt="Project 1">
-    <h3>Project 1</h3>
+    <a href="URL_to_detailed_project_page_or_external_link">
+        <img src="/assets/images/project1.jpg" alt="Project 1">
+        <h3>Project 1</h3>
+    </a>
     <p>Description of Project 1. Highlight what it's about briefly.</p>
 </div>
 
 <div class="project">
-    <img src="/assets/images/project2.jpg" alt="Project 2">
-    <h3>Project 2</h3>
+    <a href="URL_to_detailed_project_page_or_external_link">
+        <img src="/assets/images/project2.jpg" alt="Project 2">
+        <h3>Project 2</h3>
+    </a>
     <p>Description of Project 2. Highlight what it's about briefly.</p>
 </div>
