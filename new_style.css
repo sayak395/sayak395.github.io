@@ -46,20 +46,23 @@ footer {
     color: white;
 }
 
-.project {
-    margin: 20px;
-    border: 1px solid #ccc;
-    display: inline-block;
-    width: 300px;
-    padding: 10px;
+
+.project a {
+    color: #333; /* Text color */
+    text-decoration: none; /* No underline */
 }
 
 .project img {
     width: 100%;
     height: auto;
+    border-bottom: 1px solid #ccc; /* Adds a subtle line below the image */
 }
 
 .project h3 {
-    color: #0056b3;
+    margin-top: 5px; /* Space above title */
+}
+
+.project p {
+    font-size: 14px;
 }
 
