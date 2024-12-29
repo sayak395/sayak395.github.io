@@ -1,5 +1,5 @@
 ---
-layout: fancy
+layout: default
 title: Home
 ---
 
