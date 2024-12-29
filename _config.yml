@@ -1,7 +1,9 @@
 title: Sayak's Portfolio
-email: your-email@example.com
+personal email: sayakmukherjee07@gmail.com
+work email: sayal.mukherjee20@imperial.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my personal portfolio where I showcase my projects and skills.
+  Welcome to my Github pages. Here are some of my projects that I have worked on 
+  during the course of my degree and out of own interest.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sayak395.github.io" # the base hostname & protocol for your site
 
