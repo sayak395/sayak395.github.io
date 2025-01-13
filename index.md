@@ -12,7 +12,7 @@ Here you can find some of the projects I've worked on and more about my professi
 ## Projects
 
 <div class="project" style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f0f0f0;">
-    <a href="https://github.com/sayak395/waveform-with-CNNs/">
+    <a href="https://github.com/sayak395/COVID-prediction-model">
         <img src="/assets/images/project1.jpg" alt="Project 1" style="border: 1px solid grey; display: block; margin: 0 auto;">
         <h3>Prediction of COVID deaths and beds</h3>
     </a>
