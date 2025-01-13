@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: Projects
 ---
 
 ![Your Image](/assets/images/your-image.jpg) <!-- Place your image in assets/images -->
 
-# Welcome to My Portfolio
+# Welcome to My Github Pages
 
-Here you can find some of the projects I've worked on and more about my professional background.
+Here you can find some of the projects I've worked on and more about my professional background in the 'about me tab'.
 
 ## Projects
 
