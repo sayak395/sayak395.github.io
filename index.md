@@ -2,8 +2,8 @@
 layout: default
 title: Projects
 ---
+<img src="/assets/css/me.jpg" alt="A photo of me" style="width: 200px; display: block; margin: 0 auto;"> <!-- Centered image with reduced width -->
 
-![Image](/assets/css/me.jpg) <!-- Place your image in assets/images -->
 
 # Welcome to My Github Pages
 
