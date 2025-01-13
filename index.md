@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-![Your Image](/assets/css/me.jpeg) <!-- Place your image in assets/images -->
+![Image](/assets/css/me.jpg) <!-- Place your image in assets/images -->
 
 # Welcome to My Github Pages
 
