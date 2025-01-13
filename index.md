@@ -21,7 +21,7 @@ Here you can find some of the projects I've worked on and more about my professi
 </div>
 
 <div class="project" style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f0f0f0;">
-    <a href="https://github.com/sayak395/waveform-with-CNNs/">
+    <a href="https://github.com/sayak395/waveform-with-CNNs">
         <img src="/assets/images/project2.jpg" alt="Project 2" style="border: 1px solid grey; display: block; margin: 0 auto;">
         <h3>Visualising waveforms with CNNs</h3>
     </a>
