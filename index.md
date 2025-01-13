@@ -7,7 +7,7 @@ title: Projects
 
 # Welcome to My Github Pages
 
-Here you can find some of the projects I've worked on and more about my professional background in the 'about me tab'.
+Here you can find some of the projects I've worked on and more about my professional background in the ['About Me' tab](/about).
 
 ## Projects
 
