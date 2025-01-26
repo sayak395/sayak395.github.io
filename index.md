@@ -37,4 +37,11 @@ Here you can find some of the projects I've worked on and more about my professi
 <a href="./MSci_Thesis_completed_final.pdf" target="_blank">Download my MSci Thesis here</a>
 </div>
 
+<div class="project" style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f0f0f0;">
+        <img src="/assets/images/project2.jpg" alt="Project 4" style="border: 1px solid grey; display: block; margin: 0 auto;">
+        <h3>Investigation of Waves on a String</h3>
+    </a>
+    <p> This experiment involved investigation how standing waves propagated along a string. The damped harmonic oscilaator equation was solved to determine how the material of the string affects the damping in the system. </p>
+
+</div>
 
