@@ -34,8 +34,7 @@ Here you can find some of the projects I've worked on and more about my professi
         <h3>Search for axions at LHCb</h3>
     </a>
     <p>Conducted novel analysis of signal simulation to account for bias in the LHCb detector. Trained a binary classifier to seperate B0 meson events from other backgrounds. The branching fraction of B0 decays to two photons was calculayed to search for signs of the axion. </p>
-
-    [Download my MSci Thesis here](./MSci_Thesis_completed_final.pdf)
+<a href="./MSci_Thesis_completed_final.pdf" target="_blank">Download my MSci Thesis here</a>
 </div>
 
 
