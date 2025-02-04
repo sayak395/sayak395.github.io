@@ -29,7 +29,6 @@ Here you can find some of the projects I've worked on and more about my professi
 </div>
 
 <div class="project" style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f0f0f0;">
-    <a href="https://github.com/sayak395/waveform-with-CNNs/">
         <img src="/assets/images/project2.jpg" alt="Project 3" style="border: 1px solid grey; display: block; margin: 0 auto;">
         <h3>Search for axions at LHCb</h3>
     </a>
@@ -40,8 +39,8 @@ Here you can find some of the projects I've worked on and more about my professi
 <div class="project" style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f0f0f0;">
         <img src="/assets/images/project2.jpg" alt="Project 4" style="border: 1px solid grey; display: block; margin: 0 auto;">
         <h3>Investigation of Waves on a String</h3>
-    </a>
     <p> This experiment involved investigation how standing waves propagated along a string. The damped harmonic oscilaator equation was solved to determine how the material of the string affects the damping in the system. </p>
+<a href="./Waves_on_a_String.pdf" target="_blank">Download my analysis here</a>
 
 </div>
 
