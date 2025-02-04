@@ -45,3 +45,11 @@ Here you can find some of the projects I've worked on and more about my professi
 
 </div>
 
+<div class="project" style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f0f0f0;">
+    <a href="https://github.com/sayak395/MIT_iQHack_2025">
+        <img src="/assets/images/project1.jpg" alt="Project 1" style="border: 1px solid grey; display: block; margin: 0 auto;">
+        <h3>MIT iQuHack 2025</h3>
+    </a>
+    <p>Simulated the Heisenberg XXZ 1d model using Lindblad operators to model the dissipation to the environment using Jump operators. Quantum circuits were created to simulate the Hamiltonian dynamics using troterrisation. </p>
+</div>
+
